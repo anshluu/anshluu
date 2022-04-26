@@ -1,4 +1,4 @@
-#gh-dark-mode
+# gh-dark-mode
 # <strong align="center"> Hi, \<devs!> </strong>
 # contact<strong>.js</strong>
 ```js
