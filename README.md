@@ -36,4 +36,7 @@ async def about(location, achievements, hobbies,):
 
  ```STILL IN PROGRESS!```
 
-<embed type="text/html" src="https://mdjs-six.vercel.app/"  width="500" height="200">
+<iframe
+  src="https://codepen.io/team/codepen/embed/preview/PNaGbb"
+  style="width:100%; height:300px;"
+></iframe>
