@@ -34,5 +34,3 @@ async def about(location, achievements, hobbies,):
 
 
  ```
-
- ```STILL IN PROGRESS!```
