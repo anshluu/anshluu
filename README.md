@@ -1,5 +1,4 @@
 # <strong align="center"> Hi, \<devs!> </strong>
-<img src="https://discord.c99.nl/widget/theme-3/749402071501111337.png"></img>
 # contact<strong>.js</strong>
 ```js
 import Contact from 'Dev_';
