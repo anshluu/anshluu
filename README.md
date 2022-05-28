@@ -1,13 +1,12 @@
 # <strong align="center"> Hi, \<devs!> </strong>
 # contact<strong>.js</strong>
 ```js
-import Contact from 'Dev_';
+import Contact from 'cyberdev_';
 
 class Contact extends Contact {
-  name    = 'Dev_';
+  name    = 'cyberdev_';
   contact   = 'devs_github@protonmail.com';
-  website = 'https://gitcat12.github.io/Dev101AboutPage/';
-  profiles = 'Linkedin, Github, Twitter, -- Must be requested via email'
+  website = 'https://cyberdev.pages.dev';
 }
 ```
 
@@ -22,12 +21,10 @@ async def about(location, achievements, hobbies,):
    json.parse({
      "ACHIEVEMENT" : "Discord Community Moderator",
      "ACHIEVEMENT" : "Google Analytics Certification",
-     "ACHIEVEMENT" : "Amazon Sponsered Ads Certification",
-     "ACHIEVEMENT" : "Meta Certified Media Planning Professional",
      "ACHIEVEMENT" : "LinkedIn - Speaking Confidently and Effectively",
    })
 
-   new.database(HOBBIES.insert("Programming, Security, Gaming, Photography, Star Wars, Music"))
+   new.database(HOBBIES.insert("Gaming, Photography, Star Wars, Music"))
 
    
 
