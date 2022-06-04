@@ -1,5 +1,4 @@
-
-# contact<strong>.js</strong>
+# Quick stats
 ```diff
 +    Tools: Vscode, Docker, Github, Snyk.io, Atom Editor, Pycharm, Android Studio, Burpsuite, Git.
 +    Frameworks: ReactJS, NodeJS, Python, VueJS
@@ -8,7 +7,7 @@
 -    Not Available For Hiring
 -    Might be slow to respond
 ```
-
+# contact<strong>.js</strong>
 ```js
 import Contact from 'cyberdev_';
 
@@ -18,8 +17,6 @@ class Contact extends Contact {
   website = 'https://cyberdev.pages.dev';
 }
 ```
-
-
 # about-me.<strong>py<strong>
 ```py
 import about_me from Dev_
@@ -35,8 +32,4 @@ async def about(location, career, hobbies):
    })
 
    new.database(HOBBIES.insert("Gaming, Photography, Star Wars, Music, and Food!"))
-
-   
-
-
- ```
+```
