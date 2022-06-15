@@ -2,8 +2,8 @@
 ```diff
 +    Tools: Vscode, Docker, Github, Snyk.io, Atom Editor, Pycharm, Android Studio, Burpsuite, Git.
 +    Frameworks: ReactJS, NodeJS, Python, VueJS
-+    Languages: Javascript, Python, HTML, CSS, Batch, PHP, Vue, Typescript
-+    Learning new languages
++    Languages: Javascript, Python, HTML, CSS, Batch, PHP
++    Learning Vue and Ruby 
 -    Often Busy
 -    Not Available For Hiring
 -    Might be slow to respond
