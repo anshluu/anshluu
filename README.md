@@ -1,7 +1,7 @@
 # Quick stats
 ```diff
 +    Tools: Vscode, Docker, Github, Snyk.io, Atom Editor, Pycharm, Android Studio, Burpsuite, Git, Powershell, Figma, Canva, 
-Unity, Blender, InteliJ Idea, Webstorm.
++ Unity, Blender, InteliJ Idea, Webstorm.
 +    Frameworks: ReactJS, NodeJS, Python, VueJS, ElectronJS. 
 +    Languages: Javascript, Python, HTML, CSS, Batch, PHP
 +    Learning Typescript and Ruby 
